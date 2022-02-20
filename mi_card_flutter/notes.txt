@@ -1,0 +1,4 @@
+# margin is used for outside the widget
+# Padding is used for inside the widget
+# Container will take all the space of the screen or all the space of it's child taken
+margin: EdgeInsets.symmetric(vertical: 50.0, horizontal: 10.0),
